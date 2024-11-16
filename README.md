@@ -5,5 +5,5 @@
 * Gradio for system to web interface.
 * SQlite database for response record.
 
-## Requirements and prerequisities:
+## Requirements and Architecture:
 All mentioned in .ipynb file
